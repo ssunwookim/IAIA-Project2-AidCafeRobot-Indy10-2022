@@ -89,7 +89,6 @@
 
 - #### ROS Environment-Indy10  & OnRobot Gripper RG2 Setting
 [Reference](https://github.com/ssunwookim/IAIA-Project2-AidCafeRobot-Indy10-2022/blob/main/report/0.%20ROS%20environment-Indy10%20%26%20onRobot%20Gripper%20rg2%20setting.md)
-[Reference]([https://github.com/ssunwookim/IAIA-Project2-AidCafeRobot-Indy10-2022/blob/main/report/0. ROS environment-Indy10 %26 onRobot Gripper rg2 setting.md](https://github.com/ssunwookim/IAIA-Project2-AidCafeRobot-Indy10-2022/blob/main/report/0.%20ROS%20environment-Indy10%20%26%20onRobot%20Gripper%20rg2%20setting.md))
 
 - #### Hardware setting
 
