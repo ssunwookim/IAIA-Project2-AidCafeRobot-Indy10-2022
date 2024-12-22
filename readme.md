@@ -92,11 +92,11 @@
 
 - #### Hardware setting
 
-[Reference](https://github.com/ssunwookim/IAIA-Project2-AidCafeRobot-Indy10-2022/blob/main/report/1. Hardware setting.md)
+[Reference](https://github.com/ssunwookim/IAIA-Project2-AidCafeRobot-Indy10-2022/blob/main/report/1.%20Hardware%20setting.md)
 
 - #### Ade Robot Algorithm
 
-[Reference](https://github.com/ssunwookim/IAIA-Project2-AidCafeRobot-Indy10-2022/blob/main/report/2. Ade Robot Algorithm.md)
+[Reference](https://github.com/ssunwookim/IAIA-Project2-AidCafeRobot-Indy10-2022/blob/main/report/2.%20Ade%20Robot%20Algorithm.md)
 
 ## Reference
 
