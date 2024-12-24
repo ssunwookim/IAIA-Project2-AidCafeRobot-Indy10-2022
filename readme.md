@@ -16,7 +16,9 @@
 
 **Github :** [IAIA-Project2-AidCafeRobot-Indy10-2022](https://github.com/ssunwookim/IAIA-Project2-AidCafeRobot-Indy10-2022)
 
-**Demo Video :** [24-2 IAIA Project Ade Cafe Robot ](https://www.youtube.com/watch?v=TiJDjN4B75o)
+**Demo Video :** [[24-2 IAIA Project Ade Cafe Robot ](https://www.youtube.com/watch?v=TiJDjN4B75o)](https://www.youtube.com/watch?v=4C2TKfGkpFQ)
+
+**Full Video :** [24-2 IAIA Project Ade Cafe Robot ](https://www.instagram.com/reel/DD337D3oMmM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 **Short Video :** [24-2 IAIA Project Ade Cafe Robot ](https://www.instagram.com/reel/DD337D3oMmM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
