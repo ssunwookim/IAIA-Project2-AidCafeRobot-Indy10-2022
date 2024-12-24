@@ -68,6 +68,13 @@
 
 
 ### Software
+**OS**
+
+- Linux Ubuntu 20.04
+
+**ROS**
+
+- ROS Noetic
 
 **Python**
 
