@@ -70,7 +70,7 @@
 ### Software
 **OS**
 
-- Linux Ubuntu 20.04
+- Linux Ubuntu 20.04 (Guide: [Link](https://github.com/hyKangHGU/Industrial-AI-Automation_HGU/tree/main/tutorial/ubuntu))
 
 **ROS**
 
